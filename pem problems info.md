@@ -25,7 +25,6 @@ There is also a never send list, that 111 systems are told to check and suppress
 * DX 45 – Provide Service Location Information
 * DX 46 – Refer to Health Information
 * DX 63 – Refer to Fluline
-* DX Test
 
 This list has the desired effect of reducing the volume of PEMs without creating clinical risk given the nature of these referrals. However, the proportion of calls contained within this list is small (1.9%), and hence the reduction is likewise low. This list is reviewed as part of each NHS Pathways version release by the Regional Clinical Leads.
 
