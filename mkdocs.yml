@@ -1,0 +1,16 @@
+site_name: PEMProblems.info
+site_author: NHS England
+repo_url: https://github.com/tonyyates/pemproblems.info
+theme: readthedocs
+pages:
+  - Home: index.md
+  - Main: PEMProblemsInfo.md
+  - Clinical: clinical.md
+  - Operational: operational.md
+  - How To:
+      - Configuring ITK:
+          - EMIS Web: howto/emisweb.md
+          - Microtest: howto/microtest.md
+          - SystmOne: howto/systmone.md
+          - Vision: howto/vision.md
+  - Glossary: glossary.md

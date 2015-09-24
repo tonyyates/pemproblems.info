@@ -32,6 +32,8 @@ This list has the desired effect of reducing the volume of PEMs without creating
 
 The issue relates to the fact that NHS 111 is a nationally available number, although routing calls is very accurate it cannot be guaranteed that a GP’s patients will be handled by the local 111 service. This can be due to border issues, new mobile masts that haven't been assigned to the area they are in and other factors that cannot be controlled. Water can also carry mobile phone signals much further distances and make it possible for a mobile mast further away to be connected to a mobile handset.
 
+### Will I still receive a PEM message if the patient has been referred to me for onward care?
+
 ### Why am I receiving Faxes?
 
 ### Why am I receiving different versions of PEM?
