@@ -18,6 +18,6 @@ CDA is short for Clinical Document Architecture. It is a set of standards applie
 
 Rendered PEM is a CDA document that is converted from being machine readable to human readable. Rendering can be done prior to sending to allow for sending documents to people over NHS mail for example. Using rendered PEM is a good way of integrating services quickly and cheaply, it would mean manual work for receivers but offers a good interim solution while receiving software applications are building the functionality.
 
-A version of the pre-rendered PEM can be found here: [NHS111CopyRendered.pdf](media/NHS111CopyRendered.pdf)
+A version of the pre-rendered PEM can be found here: [NHS111CopyRecipientRendered.pdf](media/NHS111CopyRecipientRendered.pdf)
 
 Recipients are also able to apply custom renderers to the native CDA documents if they wish.
