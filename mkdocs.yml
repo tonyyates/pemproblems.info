@@ -7,8 +7,10 @@ pages:
   - Clinical: clinical.md
   - Operational: operational.md
   - Technical:
+      - Technical Questions: technical.md
       - Rendered PEM: renderedpem.md
   - How To:
+      - How To: howto/howto.md
       - Configuring ITK:
           - EMIS Web: howto/emisweb.md
           - Microtest: howto/microtest.md
