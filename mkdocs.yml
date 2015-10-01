@@ -6,9 +6,7 @@ pages:
   - Contractual: StandardContractExtract2015.md
   - Clinical: clinical.md
   - Operational: operational.md
-  - Technical:
-      - Technical Questions: technical.md
-      - Rendered PEM: renderedpem.md
+  - Technical: technical.md
   - How To:
       - How To: howto/howto.md
       - Configuring ITK:
