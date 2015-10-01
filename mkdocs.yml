@@ -3,7 +3,6 @@ site_author: NHS England
 theme: readthedocs
 pages:
   - Home: index.md
-  - Main: PEMProblemsInfo.md
   - Contractual: StandardContractExtract2015.md
   - Clinical: clinical.md
   - Operational: operational.md
