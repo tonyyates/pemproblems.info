@@ -5,8 +5,8 @@ pages:
   - Contractual: StandardContractExtract2015.md
   - Clinical: clinical.md
   - Frequently Asked Questions:
-    - Operational: operational.md
-    - Technical: technical.md
+    - Operational: operational_faq.md
+    - Technical: technical_faq.md
   - Help Guides:
     - Configuring GP Systems for ITK: guides/configuring_gp_systems.md
   - Glossary: glossary.md
