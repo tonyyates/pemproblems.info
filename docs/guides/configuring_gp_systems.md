@@ -1,12 +1,10 @@
-**Dr Shanker Vijay** has written the following guidance documents to assist with the setup of GP systems to receive ITK messages.
+The following guidance documents have been written by members of the community to assist with the configuration of GP systems to receive ITK messages:
 
-**[Guidance for DOS Leads](../media/DOSLeadGuideSettingUpNHS111MessagingtoPractices25092015.pdf)**
+| Document | Author(s) |
+| ------------ | ------------- |
+| **[Guidance for DOS Leads](../downloads/DOSLeadGuideSettingUpNHS111MessagingtoPractices25092015.pdf)** | Dr Shanker Vijay  |
+| **[EMIS Web ITK Configuration Guide](../downloads/NHS111MessagingtoEMISWebPractices25092015.docx)** | Dr Shanker Vijay  |
+| **[TPP SystmOne ITK Configuration Guide](../downloads/NHS111MessagingtoSystmOnePractices25092015.docx)** | Dr Shanker Vijay  |
+| **[INPS Vision ITK Configuration Guide](../downloads/NHS111MessagingtoINPSVisionPractices25092015.docx)** | Dr Shanker Vijay |
 
-**[EMIS Web ITK Configuration Guide](../media/NHS111MessagingtoEMISWebPractices25092015.docx)**
-
-**[TPP SystmOne ITK Configuration Guide](../media/NHS111MessagingtoSystmOnePractices25092015.docx)**
-
-**[INPS Vision ITK Configuration Guide](../media/NHS111MessagingtoINPSVisionPractices25092015.docx)**
-
-**Microtest**
-A guide for Microtest is being worked on but we do not yet have full details of the process.
+**Microtest** - A guide for Microtest is being worked on but we do not yet have full details of the process.
