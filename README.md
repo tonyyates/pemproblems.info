@@ -1,4 +1,3 @@
+THIS REPOSITORY HAS MOVED TO:
 
-# PostEventMessagingInfo.readthedocs.org
-
-Community-owned documentation around Post Event Messaging within the NHS and associated services.
+https://github.com/NHS111/posteventmessaginginfo
