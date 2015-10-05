@@ -1,8 +1,8 @@
-## Welcome to PostEventMessagingInfo docs!
+## Welcome to Post Event Messaging Info!
 
 **PEM** stands for **Post Event Messaging**
 
-PostEventMessagingInfo is a community-compiled resource for finding and sharing information about Post Event Messaging (PEM) in order to help organisations better understand, implement, and use PEM within their services.
+Post Event Messaging Info is a community-compiled resource for finding and sharing information about Post Event Messaging (PEM) in order to help organisations better understand, implement, and use PEM within their services.
 
 
 ### What is PEM?
