@@ -1,12 +1,11 @@
-site_name: PostEventMessagingInfo
-theme: readthedocs
+site_name: Post Event Messaging Info
 pages:
   - Home: index.md
-  - Contractual: StandardContractExtract2015.md
-  - Clinical: clinical.md
+  - Help Guides:
+    - Configuring GP Systems for ITK: guides/configuring_gp_systems.md
+  - Contractual Guidance: StandardContractExtract2015.md
+  - Clinical Guidance: clinical_faq.md
   - Frequently Asked Questions:
     - Operational: operational_faq.md
     - Technical: technical_faq.md
-  - Help Guides:
-    - Configuring GP Systems for ITK: guides/configuring_gp_systems.md
-  - Glossary: glossary.md
+  - Glossary Of Terms: glossary.md
