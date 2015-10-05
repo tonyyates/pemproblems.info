@@ -5,13 +5,9 @@ pages:
   - Home: index.md
   - Contractual: StandardContractExtract2015.md
   - Clinical: clinical.md
-  - Operational: operational.md
-  - Technical: technical.md
-  - How To:
-      - How To: howto/howto.md
-      - Configuring ITK:
-          - EMIS Web: howto/emisweb.md
-          - Microtest: howto/microtest.md
-          - SystmOne: howto/systmone.md
-          - Vision: howto/vision.md
+  - Frequently Asked Questions:
+    - Operational: operational.md
+    - Technical: technical.md
+  - Help Guides:
+    - Configuring GP Systems for ITK: howto/configuring_gp_systems.md
   - Glossary: glossary.md
