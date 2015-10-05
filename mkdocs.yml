@@ -1,4 +1,5 @@
 site_name: Post Event Messaging Info
+theme: bootstrap
 pages:
   - Home: index.md
   - Help Guides:
