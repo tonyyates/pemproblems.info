@@ -17,11 +17,15 @@ ITK is the acronym for HSCIC’s Interoperability Toolkit. It’s a standard for
 
 Kettering is a standard message format that Out of Hours services use to report back to GP’s. The issue with the standard is that it wasn’t maintained and now there are many variants of that standard. This has developed by evolution over a long time and has become fragmented. This is a problem for NHS 111 providers as they are unable to determine what versions are being sent to where making it difficult to send an electronic PEM for patients that are out of area. This would force the 111 provider into faxing the report which has a wide range of quality, is difficult to manage and is more expensive on both parties.
 
+#### PEM
+
+Post Event Messaging (PEM) in the context of NHS 111 is an electronic document, that is transmitted to GP practices at the end of an NHS 111 Call. There are essentially two types of PEM a GP can receive, one that is ‘for action’ meaning a GP has been referred back to their own GP with a timeframe associated with it. The other is a ‘for information’ message, which is for the GP to inspect and file against the patients record.
+
 #### Rendered PEM
 
 Rendered PEM is a CDA document that is converted from being machine readable to human readable. Rendering can be done prior to sending to allow for sending documents to people over NHS mail for example. Using rendered PEM is a good way of integrating services quickly and cheaply, it would mean manual work for receivers but offers a good interim solution while receiving software applications are building the functionality.
 
-[More Information](./renderedpem.md)
+[More Information](./downloads/NHS111CopyRecipientRendered.pdf)
 
 A version of the pre-rendered PEM can be found here:
 
