@@ -1,5 +1,5 @@
 site_name: Post Event Messaging Info
-theme: bootstrap
+theme: readthedocs
 pages:
   - Home: index.md
   - Help Guides:
