@@ -1,5 +1,4 @@
-site_name: PEMProblems.info
-site_author: NHS England
+site_name: PostEventMessagingInfo
 theme: readthedocs
 pages:
   - Home: index.md
@@ -9,5 +8,5 @@ pages:
     - Operational: operational.md
     - Technical: technical.md
   - Help Guides:
-    - Configuring GP Systems for ITK: howto/configuring_gp_systems.md
+    - Configuring GP Systems for ITK: guides/configuring_gp_systems.md
   - Glossary: glossary.md
