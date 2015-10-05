@@ -1,3 +1,6 @@
+**DOS**
+**D**irectory **o**f **S**ervices
+
 ### CDA
 
 CDA is short for Clinical Document Architecture. It is a set of standards applied to HL7 messages to provide structure and integrity to the messages that are transmitted from one computer system to another. The receiving system is able to inspect these and know exactly what information is contained where. They do need to be populated with quality content.
